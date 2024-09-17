@@ -17,3 +17,8 @@
 | CSS 框架     | Tailwind CSS               | [Tailwind CSS 官方網站](https://tailwindcss.com)                                   |
 | React Native | 用於建立移動應用程式的框架 | [React Native 官方網站](https://reactnative.dev)                                   |
 | API          | Openwhyd 提供的 API        | [Openwhyd API 文檔](https://openwhyd.github.io/openwhyd/API#user-session--logging) |
+
+## 參考
+https://rnr-docs.vercel.app/getting-started/introduction/
+
+https://github.com/public-apis/public-apis?tab=readme-ov-file
