@@ -3,6 +3,7 @@
 ## UI 設計
 
 [UI 設計連結](https://whimsical.com/react-native-music-GeCGfoDewK81DZq3RARubV)
+[Figma](https://www.figma.com/design/Pk6MiOyJf2dfkzFsYutnzd/Clean-Music-App-UI-Concept-%2B%2B-YEV-YEV-(Community)?node-id=0-26&t=GJRMymJ6AUIu4IiE-1)
 
 ## API
 
